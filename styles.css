@@ -1,0 +1,23 @@
+body{
+    font-family: 'Roboto', sans-serif;
+    margin: 0;
+    background-color: lawngreen;
+}
+h1 {
+    font-weight: bold;
+    font-style: italic;
+    text-decoration: underline;
+    color: blue;
+    display: block;
+    text-transform: uppercase;
+    }
+
+.friend {
+    background-color: orange;
+
+}
+
+.friend > h3 {
+
+text-transform: uppercase  ;
+}
